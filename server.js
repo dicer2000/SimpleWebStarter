@@ -20,8 +20,6 @@ path = require('path');
 
 
 
-
-
 // ***********************************************
 // Be sure any routes are setup before this!
 // Set the folder for public items
